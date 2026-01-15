@@ -16,8 +16,7 @@
 
    -`STM32CubleIDE`
 
- **[시스템 회로도]**
-<img width="640" height="460" alt="{8633471F-6860-4878-95A1-ABBB25E3D4B5}" src="https://github.com/user-attachments/assets/9521ccba-b00e-4dee-8502-3fb79e61444b" />
+
 
  **[게임 로직 구조]**  
   1️⃣ 게임 상태: ING(게임 진행 중), WIN(승리), OVER(실패)
